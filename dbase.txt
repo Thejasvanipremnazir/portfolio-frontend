@@ -1,0 +1,9 @@
+mongodb+srv://thejasvanipremnazir:<db_password>@cluster0.qkrect2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 
+Thejasvanipremnazir
+git init
+git add .
+git commit -m "Initial backend"
+git remote add origin https://github.com/Thejasvanipremnazir/portfolio-backend.git
+git push -u origin master
+
+git config --global user.name "Thejasvanipremnazir"
